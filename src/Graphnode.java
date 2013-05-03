@@ -5,7 +5,6 @@
 // Semester:         Spring 2012
 //
 // Author:           Corbin Schwalm
-// CS Login:         schwalm
 // Lecturer's Name:  Beck Hasti
 // Lab Section:      N/A
 //
