@@ -1,0 +1,11 @@
+Number of users: 12
+Number of follows links: 20
+DFS visit order: [ant, cat, emu, bat, gull, dog, fox, kob, jay, hen, lory]
+BFS visit order: [ant, cat, emu, hen, bat, fox, kob, gull, jay, lory, dog]
+Most followers: [emu]
+No followers: 4
+Don't follow anyone: 1
+Receive most tweets: [fox, gull]
+Tweet reaches self: 4 [ant, dog, emu, gull]
+Most users reached: 12 [ibis]
+Minutes to get tweet: 3
